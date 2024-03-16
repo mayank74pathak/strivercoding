@@ -1,4 +1,4 @@
-getting sum zero in sub array
+getting sum zero in sub array  by nishant chahar
 #include<vector>
 
 int getLongestZeroSumSubarrayLength(vector<int> &arr){
